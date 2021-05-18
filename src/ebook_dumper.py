@@ -5,8 +5,8 @@ from pynput.mouse import Button, Controller
 
 
 book_name = "CAP"
-#nb_pages = 435
-nb_pages = 5
+#nb_pages = 5
+nb_pages = 435
 
 scrnshot_x_1 = 48
 scrnshot_y_1 = 98
