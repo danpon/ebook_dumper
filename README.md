@@ -7,8 +7,12 @@ https://www.geeksforgeeks.org/taking-screenshots-using-pyscreenshot-in-python/
 Simulate mouse clicks:
 https://nitratine.net/blog/post/simulate-mouse-events-in-python/
 
-Delay:
-https://realpython.com/python-sleep/
+Delay - NOT WORKING ON WINDOWS 10 WITH ANCONDA POWERSHELL !!!
+(https://realpython.com/python-sleep/) 
+
+How to make python wait :
+https://blog.miguelgrinberg.com/post/how-to-make-python-wait
+
 
 For Developers on Windows :
 
